@@ -19,14 +19,14 @@ public:
             i++;
             k--;
         }
-        for(int i=0; i<v.size(); i++)
+        for(int i=0; i<a.size(); i++)
         {
-            for(int j=0; j<a.size(); j++)
+            for(int j=0; j<v.size(); j++)
             {
-                if(a[j]==v[i])
+                if(a[i]==v[j])
                 {
-                    v[i]=INT_MIN;
-                    result.push_back(a[j]);
+                    v[j]=INT_MIN;
+                    result.push_back(a[i]);
                     break;
                 }
             }
