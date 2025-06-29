@@ -17,9 +17,12 @@ public:
             for(int i = 1; i < s.length(); i++) {
                 if(s[i] == s[i - 1]) {
                     count++;
+                    cout<<count<<endl;
                     if(i == s.length() - 1) {
                         str += to_string(count);
+                        cout<<str<<endl;
                         str.push_back(s[i - 1]);
+                        cout<<str<<endl;
                     }
                 } else {
                     str += to_string(count);
@@ -33,16 +36,17 @@ public:
             }
 
             n--;
-            if(n > 0) {
-                s = str;
-                str = "";
-                count = 1;
-            }
+            
 
             if(check) {
                 str += "1";
                 str.push_back(s.back());
                 check = false;
+            }
+            if(n > 0) {
+                s = str;
+                str = "";
+                count = 1;
             }
         }
 
