@@ -12,9 +12,9 @@ public:
                 if(i==arr.size()-1)
                 {
                     if(count == arr[i-1])
-                {
-                    result = arr[i-1];
-                }
+                    {
+                        result = arr[i-1];
+                    }
                 }
             }
             else
