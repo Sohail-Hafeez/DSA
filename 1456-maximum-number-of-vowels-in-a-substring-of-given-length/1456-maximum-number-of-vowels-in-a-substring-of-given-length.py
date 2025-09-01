@@ -14,9 +14,9 @@ class Solution(object):
         for i in range(k,len(s)):
             if s[i] in vowel:
                 count = count + 1
-                
+
             if s[i-k] in vowel:
                 count = count - 1
             maxCount = max(count , maxCount)
 
-        return max(count , maxCount)
+        return maxCount
