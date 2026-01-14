@@ -1,26 +1,26 @@
 class Solution(object):
     def findErrorNums(self, nums):
-        if nums == [1,1]:
-            return [1,2]
-        j = 1
-        check = 0
-        c = False
+        a=nums
+        nums.sort()
+        j=1
         for i in nums:
-            if (i != nums[j]):
+            if i==nums[j]:
+                duplicate = i
+                break
+            else:
                 j = j+1
-                c = True
+        k=1
+        while(True):
+            if k in a:
+                k= k+1 
                 continue
             else:
-                check=i
+                replace = k
                 break
-        if c == False:
-            j = j+1
-        if (check + 1) in nums and check - 1 in nums:
-            return -1
-        if (check-1) in nums:
-            return [j, check + 1]
-        else:
-            return [j , check - 1]
+        return [duplicate , replace]
+
+
+
         
 
 
