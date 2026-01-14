@@ -1,4 +1,4 @@
-# The following code is correct but is brute force approach and its time complexity is O(n)
+# The following code is correct but is brute force approach and its time complexity is O(n^2)
 
 # class Solution(object):
 #     def findDisappearedNumbers(self, nums):
