@@ -12,13 +12,13 @@ class Solution:
             if state == "start":
                 if stack:
                     a = stack[-1]
-                    output[a] += currTime - preTime   # FIX 1
+                    output[a] += currTime - preTime 
                 stack.append(id)
                 preTime = currTime
 
-            else:  # end
+            else: 
                 a = stack.pop()
-                output[a] += currTime - preTime + 1  # FIX 2
-                preTime = currTime + 1               # FIX 3
+                output[a] += currTime - preTime + 1  
+                preTime = currTime + 1              
 
         return output
