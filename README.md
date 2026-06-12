@@ -7,6 +7,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohail-Hafeez/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Sohail-Hafeez/DSA/tree/main/0006-zigzag-conversion/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Sohail-Hafeez/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
