@@ -26,6 +26,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohail-Hafeez/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sohail-Hafeez/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohail-Hafeez/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sohail-Hafeez/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sohail-Hafeez/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
