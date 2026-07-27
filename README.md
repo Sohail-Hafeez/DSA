@@ -9,6 +9,7 @@ Leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohail-Hafeez/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Sohail-Hafeez/DSA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Sohail-Hafeez/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0043-multiply-strings](https://github.com/Sohail-Hafeez/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Sohail-Hafeez/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -43,4 +44,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sohail-Hafeez/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Sohail-Hafeez/DSA/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Sohail-Hafeez/DSA/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
